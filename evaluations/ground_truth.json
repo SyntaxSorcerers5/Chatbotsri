@@ -1,0 +1,74 @@
+{
+    "accidents": {
+        "minor_cut": {
+            "keywords": ["cut", "scrape", "wound"],
+            "ground_truth": [
+                "Clean the wound with water.",
+                "Apply a sterile bandage."
+            ]
+        },
+        "nosebleed": {
+            "keywords": ["nosebleed", "epistaxis", "blood coming from nose"],
+            "ground_truth": [
+                "Sit upright and lean forward.",
+                "Pinch the soft part of the nose for 10 minutes."
+            ]
+        },
+        "minor_burn": {
+            "keywords": ["burn", "sunburn", "cooking burn"],
+            "ground_truth": [
+                "Cool the burn under running water for at least 10 minutes.",
+                "Cover the burn with a sterile, non-fluffy dressing or cloth."
+            ]
+        },
+        "chemical_burn": {
+            "keywords": ["chemical burn", "acid on skin", "chemical injury"],
+            "ground_truth": [
+                "Flush the area with large amounts of water.",
+                "Remove contaminated clothing."
+            ]
+        },
+        "animal_bite": {
+            "keywords": ["animal bite", "dog bite", "animal scratch"],
+            "ground_truth": [
+                "Wash the wound with soap and water.",
+                "Apply an antiseptic and seek medical attention."
+            ]
+        },
+        "fracture": {
+            "keywords": ["fracture", "broken bone", "bone break"],
+            "ground_truth": [
+                "Immobilize the affected area.",
+                "Apply a splint and seek medical attention."
+            ]
+        },
+        "sprain": {
+            "keywords": ["sprain", "twist", "ligament injury"],
+            "ground_truth": [
+                "Rest the injured area.",
+                "Apply an ice pack to reduce swelling."
+            ]
+        },
+        "head_injury": {
+            "keywords": ["head injury", "concussion", "trauma to the head"],
+            "ground_truth": [
+                "Keep the person awake and check for responsiveness.",
+                "Seek medical attention immediately."
+            ]
+        },
+        "choking": {
+            "keywords": ["choking", "food stuck", "airway obstruction"],
+            "ground_truth": [
+                "Encourage the person to cough.",
+                "Perform the Heimlich maneuver if necessary."
+            ]
+        },
+        "heatstroke": {
+            "keywords": ["heatstroke", "overheating", "sun stroke"],
+            "ground_truth": [
+                "Move the person to a cool place.",
+                "Give small sips of water and seek medical help."
+            ]
+        }
+    }
+}

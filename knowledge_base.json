@@ -1,0 +1,117 @@
+{
+    "accidents": {
+        "minor_cut": {
+            "keywords": ["minor cut", "cut", "bleeding", "scrape", "wound"],
+            "emergency_help": "A minor cut typically doesn't require emergency care unless it's located in a sensitive area like the face or near a major blood vessel.",
+            "first_aid": [
+                "1. Wash your hands. This helps avoid infection.",
+                "2. Stop the bleeding. Minor cuts and scrapes usually stop bleeding on their own. If needed, gently press the wound with a clean bandage or cloth. Raise the area until the bleeding stops.",
+                "3. Clean the wound. Rinse the wound with water. Keeping the wound under running water will lower the risk of infection. Wash around the wound with soap. But don't get soap in the wound. And don't use hydrogen peroxide or iodine. Both can irritate wounds. Remove any dirt or debris with tweezers cleaned with alcohol. See a healthcare professional if you can't remove all debris.",
+                "4. Put on an antibiotic or petroleum jelly. Put on a thin layer of an antibiotic ointment or petroleum jelly to keep the surface moist and help prevent scarring. Ingredients in some antibiotic ointments can cause a mild rash in some people. If you get a rash, stop using the ointment.",
+                "5. Cover the wound. Put on a bandage, rolled gauze or gauze held in place with paper tape. Covering the wound keeps it clean. If you have just a minor scrape or scratch, don't cover it.",
+                "6. Change the covering. Do this at least once a day or whenever the covering becomes wet or dirty."
+            ],
+            "warning": "See a healthcare professional if you see signs of infection on the skin or near the wound. These include expanding changes in color, increasing pain, drainage, warmth or swelling. See a healthcare professional to get a tetanus shot if you haven't had one in the past five years and the wound is deep or dirty."
+        },
+        "nosebleed": {
+            "keywords": ["nosebleed", "nose bleeding", "bleeding nose", "blood from nose", "epistaxis", "stopping nosebleed", "nose bleed"],
+            "emergency_help": "Seek emergency help if:\nNosebleeds involve a greater than expected amount of blood.\nNosebleeds last longer than 30 minutes.\nYou feel faint or lightheaded.\nThe nosebleed follows a fall or an accident. Bleeding after a fall or an injury to the head or face could mean that you have broken the nose.",
+            "first_aid": [
+                "1. Sit up and lean forward. Keep the head up. Lean forward so the blood doesn't go down the throat. This could cause you to choke or have an upset stomach.",
+                "2. Gently blow your nose. This will clear any blood clots.",
+                "3. Pinch the nose. Use the thumb and a finger to pinch both nostrils shut. Breathe through the mouth. Keep pinching for 10 to 15 minutes. Pinching puts pressure on the blood vessels and helps stop the blood flow. If the bleeding doesn't stop, pinch the nose again for up to 15 minutes. Don't let go for at least five minutes even to check if the bleeding has stopped. Seek emergency care if the bleeding doesn't stop after the second try.",
+                "4. Prevent another nosebleed. Don't pick or blow the nose. And don't drop the head below the heart or lift anything heavy for many hours. Gently put a saline gel (Ayr), antibiotic ointment (Neosporin) or petroleum jelly (Vaseline) on the inside of the nose. Put most of the salve on the middle part of the nose, also called the septum. Steam, humidifiers or an ice pack across the bridge of the nose also may help.",
+                "5. If you have another nosebleed, try first-aid steps again. This time, spray both sides of the nose with a nasal spray that has oxymetazoline in it (Afrin). Do this after blowing the nose. Then pinch the nose again. Seek medical help if the bleeding does not stop."
+            ],
+            "warning": "Contact your doctor if:\nYou have nosebleeds often. You may need to have a blood vessel cauterized. Cautery is a method that burns and seals blood vessels using electric current, silver nitrate or a laser. Also, a care provider might pack the nose with special gauze or an inflatable latex balloon. Both packing methods put pressure on the blood vessel and stop the bleeding.\nYou have nosebleeds and you're taking blood thinners. If you're taking medicines such as aspirin or warfarin (Jantoven), your care team may change the medicine dose. Think about using a humidifier. Adding more moisture in your home may help relieve nasal bleeding."
+        },
+        "minor_burn": {
+            "keywords": ["minor burn", "first degree burn", "skin burn", "mild burn", "sunburn", "minorburn"],
+            "emergency_help": "A minor burn might need emergency care if it affects the eyes, mouth, hands or genitals. Babies and older adults might need emergency care for minor burns as well.",
+            "first_aid": [
+                "1. Cool the burn. Hold the area under cool running water for about 10 minutes. (Don't use cold water to cool the burn.) If this isn't possible or if the burn is on the face, apply a cool, wet cloth until the pain eases. For a mouth burn from hot food or drink, put a piece of ice in the mouth for a few minutes.",
+                "2. Remove rings or other tight items. Try to do this quickly and gently, before the burned area swells.",
+                "3. Apply lotion. After the burn is cooled, apply a lotion, such as one with aloe vera. This helps prevent drying.",
+                "4. Bandage the burn. Cover the burn with a clean bandage. Wrap it loosely to avoid putting pressure on burned skin. Bandaging keeps air off the area, reduces pain and protects blistered skin.",
+                "5. If needed, take a nonprescription pain reliever, such as ibuprofen (Advil, Motrin IB, others) or acetaminophen (Tylenol, others)."
+            ],
+            "warning": "Don't break blisters. Blisters help protect against infection. If a blister does break, gently clean the area with water and apply an antibiotic ointment. See a healthcare professional to get a tetanus shot if you haven't had a tetanus shot in the past five years, especially if the burn is caused by a dirty object."
+        },
+        "chemical_burn": {
+            "keywords": ["chemical burn", "chemical injury", "acid burn", "chemical reaction on skin", "chemical injury", "chemicalburn"],
+            "emergency_help": "Major chemical burns need emergency help. A minor burn might need emergency care if it affects the eyes, mouth, hands or genital areas. Babies and older adults might need emergency care for minor burns as well. Seek immediate care for major chemical burns, which may be deep, involving all layers of the skin, are larger than 3 inches (about 8 centimeters) in diameter, cover the hands, feet, face, groin, buttocks, or a major joint or encircle an arm or leg.",
+            "first_aid": [
+                "For major chemical burns, apply first aid as follows until emergency help arrives. For minor burns, take the same steps.",
+                "1. Protect the burned person from further harm. Remove dry chemicals. Put on gloves and brush off any remaining material.",
+                "2. Remove contaminated clothing or jewelry and rinse chemicals off for at least 20 minutes, in a shower if it's available. Protect eyes from the chemicals.",
+                "3. Cover the burn. Loosely cover the area with gauze or a clean cloth.",
+                "4. Rinse again if needed. If the area is still painful, rinse for several more minutes.",
+                "For major burns, watch for signs of shock. Symptoms include cool, clammy skin, weak pulse and shallow breathing."
+            ],
+            "warning": "If you seek emergency medical help, take the container or the name of the chemical with you."
+        },
+        "animal_bite": {
+            "keywords": ["animal bite", "dog bite", "cat bite", "wild animal bite"],
+            "emergency_help": "Seek emergency help if: The wound is a deep puncture or you're not sure how serious it is. The skin is badly torn, crushed or bleeding severely. First apply pressure with a bandage or clean cloth to stop the bleeding.\nYou notice increasing swelling, skin color changes, pain or oozing. These are signs of infection. You aren’t sure whether the animal that bit you has rabies.",
+            "first_aid": ["To care for a minor animal bite or claw wound, such as one that only breaks the skin, take these steps: \n",
+                "1. Wash the wound with soap and water.",
+                "2. Apply an antibiotic cream or ointment and cover the bite with a clean bandage."],
+            "warning": "If the wound was caused by a cat or a dog, try to confirm that its rabies vaccination is up to date. If it was caused by a wild animal, seek advice from your doctor about which animals are most likely to carry rabies."
+        },
+        "fracture": {
+            "keywords": ["fracture", "broken bone", "bone break", "bone injury", "broken limb"],
+            "emergency_help": "Call emergency services for help if the injury is severe. Signs of a severe fracture include: \n- A broken bone pushing through the skin (open fracture).\n- Bones that don't seem to be in the proper position. \n- The person can't move the affected limb.\n- The limb has a visible deformity or is swollen, bruised and painful.",
+            "first_aid": [
+                "1. Stay calm. Encourage the person to remain still and calm. The injury is painful, but moving may worsen the injury.",
+                "2. Call emergency services if the injury is severe. You might need to apply first aid until help arrives.",
+                "3. Immobilize the area. If the person has a broken leg or ankle, keep them from moving. Tie the leg to a sturdy object, such as a splint or even a rolled-up newspaper.",
+                "4. Apply ice or a cold compress to reduce swelling.",
+                "5. Keep the person calm and comfortable."
+            ],
+            "warning": "A fracture needs proper medical attention to avoid complications such as infection or improper healing."
+        },
+        "sprain": {
+            "keywords": ["sprain", "ankle sprain", "knee sprain", "twisted ankle", "ligament injury"],
+            "emergency_help": "If a sprain causes severe pain, swelling or inability to use the joint, call emergency services.",
+            "first_aid": [
+                "1. Rest. Stop using the injured joint and avoid putting weight on it.",
+                "2. Ice. Apply ice to reduce swelling. Do this for 20 minutes at a time, several times a day.",
+                "3. Compression. Use an elastic bandage to compress the area. This can help reduce swelling.",
+                "4. Elevation. Keep the injured area elevated above the heart level to reduce swelling."
+            ],
+            "warning": "If the pain or swelling worsens after a few days, seek medical advice."
+        },
+        "head_injury": {
+            "keywords": ["head injury", "concussion", "trauma to the head", "brain injury", "fall", "hit on head"],
+            "emergency_help": "Seek emergency care if the person experiences:\n- Loss of consciousness.\n- Severe headache.\n- Confusion or unusual behavior.\n- Vomiting.\n- Seizures.",
+            "first_aid": [
+                "1. Monitor the person. Stay with them and monitor their symptoms.",
+                "2. Apply a cold pack to reduce swelling. Avoid applying ice directly to the skin.",
+                "3. Seek medical help if symptoms worsen or do not improve."
+            ],
+            "warning": "A head injury can be serious, and immediate medical attention is often necessary."
+        },
+        "choking": {
+            "keywords": ["choking", "blockage in throat", "food stuck in throat", "unable to breathe", "airway obstruction"],
+            "emergency_help": "If the person is unable to breathe or cough, call emergency services immediately. If the person loses consciousness, begin CPR. If they are conscious and coughing, encourage them to keep coughing to dislodge the object.",
+            "first_aid": [
+                "1. Encourage the person to cough. If they can cough, tell them to do so forcefully to try to clear the airway.",
+                "2. If the person cannot cough or is unable to breathe, perform the Heimlich maneuver: Stand behind the person and wrap your arms around their waist. Place a fist above their navel and grab it with your other hand. Perform quick, inward and upward thrusts to expel the object.",
+                "3. If the person becomes unconscious, begin CPR. Start with chest compressions and follow the usual CPR procedure.",
+                "4. If the object is visible in the mouth, attempt to remove it with your fingers, but do not push it further down the throat."
+            ],
+            "warning": "Seek medical help immediately even if the object is dislodged, as complications such as airway injury can occur."
+        },
+        "heatstroke": {
+            "keywords": ["heatstroke", "overheating", "heat exhaustion", "sun stroke", "high body temperature"],
+            "emergency_help": "Heatstroke is a medical emergency. Call emergency services immediately if you suspect someone is suffering from heatstroke.",
+            "first_aid": [
+                "1. Move the person to a cooler environment. Get them out of direct sunlight and into a shady or air-conditioned area.",
+                "2. Cool the person down. Use cold packs or a cool, wet cloth on the person's body, particularly around the neck, armpits, and groin. If available, use a fan or air conditioner to help lower their body temperature.",
+                "3. Hydrate. If the person is conscious, give them small sips of water or electrolyte drinks. Avoid drinks with caffeine or alcohol.",
+                "4. Monitor for signs of worsening symptoms. If the person begins to vomit, becomes confused, or loses consciousness, seek immediate medical attention."
+            ],
+            "warning": "Heatstroke can cause permanent organ damage or death. Immediate medical intervention is crucial, even if symptoms improve."
+        }
+    }
+}

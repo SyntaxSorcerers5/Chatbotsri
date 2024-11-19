@@ -1,0 +1,133 @@
+{
+  "test_data": [
+    {
+      "input": "Hi",
+      "intent": "greeting"
+    },
+    {
+      "input": "Hello",
+      "intent": "greeting"
+    },
+    {
+      "input": "Hey there",
+      "intent": "greeting"
+    },
+    {
+      "input": "Good morning",
+      "intent": "greeting"
+    },
+    {
+      "input": "How are you?",
+      "intent": "greeting"
+    },
+    {
+      "input": "What's up?",
+      "intent": "greeting"
+    },
+    {
+      "input": "Bye",
+      "intent": "farewell"
+    },
+    {
+      "input": "Goodbye",
+      "intent": "farewell"
+    },
+    {
+      "input": "See you later",
+      "intent": "farewell"
+    },
+    {
+      "input": "Take care",
+      "intent": "farewell"
+    },
+    {
+      "input": "Have a great day",
+      "intent": "farewell"
+    },
+    {
+      "input": "Thanks",
+      "intent": "thanks"
+    },
+    {
+      "input": "Thank you",
+      "intent": "thanks"
+    },
+    {
+      "input": "That's helpful",
+      "intent": "thanks"
+    },
+    {
+      "input": "I appreciate it",
+      "intent": "thanks"
+    },
+    {
+      "input": "I don't understand",
+      "intent": "noanswer"
+    },
+    {
+      "input": "Can you repeat that?",
+      "intent": "noanswer"
+    },
+    {
+      "input": "I need more info",
+      "intent": "noanswer"
+    },
+    {
+      "input": "I'm not sure what you mean",
+      "intent": "noanswer"
+    },
+    {
+      "input": "What can you do?",
+      "intent": "options"
+    },
+    {
+      "input": "Help me",
+      "intent": "options"
+    },
+    {
+      "input": "What are your capabilities?",
+      "intent": "options"
+    },
+    {
+      "input": "Tell me about yourself",
+      "intent": "options"
+    },
+
+    {
+      "input": "I need help",
+      "intent": "help"
+    },
+    {
+      "input": "Can you assist me?",
+      "intent": "help"
+    },
+    {
+      "input": "I'm having trouble",
+      "intent": "help"
+    },
+    {
+      "input": "Help me out here",
+      "intent": "help"
+    },
+    {
+      "input": "heloo",
+      "intent": "greeting"
+    },
+    {
+      "input": "thanks for your help",
+      "intent": "thanks"
+    },
+    {
+      "input": "byee",
+      "intent": "farewell"
+    },
+    {
+      "input": "whats up",
+      "intent": "greeting"
+    },
+    {
+      "input": "can you help me?",
+      "intent": "help"
+    }
+  ]
+}

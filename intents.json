@@ -1,0 +1,95 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hello",
+        "Hey",
+        "Hey there",
+        "Good morning",
+        "Good evening",
+        "How are you?",
+        "What's up?"
+      ],
+      "responses": [
+        "Hello! How can I help you today?",
+        "Hi there! What can I assist you with?",
+        "Greetings! How may I be of service?",
+        "I'm here to help! What do you need?"
+      ]
+    },
+    {
+      "tag": "farewell",
+      "patterns": [
+        "Bye",
+        "Goodbye",
+        "See you later",
+        "Take care",
+        "Have a great day"
+      ],
+      "responses": [
+        "Goodbye! Have a nice day!",
+        "See you later! If you need anything else, feel free to ask.",
+        "Take care! I'm here if you need assistance."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Thanks",
+        "Thank you",
+        "That's helpful",
+        "I appreciate it"
+      ],
+      "responses": [
+        "You're welcome!",
+        "Glad to help!",
+        "Anytime! If you have more questions, just let me know."
+      ]
+    },
+    {
+      "tag": "noanswer",
+      "patterns": [
+        "I don't understand",
+        "Can you repeat that?",
+        "I need more info",
+        "I'm not sure what you mean"
+      ],
+      "responses": [
+        "I'm sorry, I don't quite understand. Can you elaborate?",
+        "Could you please rephrase that?",
+        "I’m here to help! Please ask in a different way."
+      ]
+    },
+    {
+      "tag": "options",
+      "patterns": [
+        "What can you do?",
+        "Help me",
+        "What are your capabilities?",
+        "Tell me about yourself"
+      ],
+      "responses": [
+        "I can assist you with common inquiries, provide information, and offer support!",
+        "I'm here to answer your questions and help with various tasks.",
+        "Feel free to ask me anything!"
+      ]
+    },
+
+    {
+      "tag": "help",
+      "patterns": [
+        "I need help",
+        "Can you assist me?",
+        "I'm having trouble",
+        "Help me out here"
+      ],
+      "responses": [
+        "Of course! What do you need help with?",
+        "I'm here to assist. Please describe your issue.",
+        "Let me know how I can help you!"
+      ]
+    }
+  ]
+}
